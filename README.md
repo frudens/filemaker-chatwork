@@ -2,8 +2,6 @@
 
 FileMakerの「URLから挿入」を使い、Chatworkの全てのAPIをリクエストするためのサンプルファイルです。
 
----
-
 # スクリーンショット
 
 ## settings
